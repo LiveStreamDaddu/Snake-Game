@@ -7,6 +7,7 @@ using namespace std;
 
 Color green = Color{173 , 204 , 96 , 255};
 Color dark_green = Color{43 , 51 , 24 , 255};
+// defined colours
 
 
 int cellSize = 30;
